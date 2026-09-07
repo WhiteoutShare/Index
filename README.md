@@ -6,7 +6,7 @@ Whiteout Survival に関するサーバールール、攻略情報、各種Tips�
 
 ### 1. サーバールール・攻略等まとめ
 
-[サーバールール・攻略等](https://github.com/WhiteoutShare/hao/tree/main)
+[サーバールール・攻略等](https://whiteoutshare.github.io/hao)
 
 ### 2. 兵器工場攻略まとめ
 
