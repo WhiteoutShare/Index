@@ -10,7 +10,7 @@ Whiteout Survival に関するサーバールール、攻略情報、各種Tips�
 
 ### 2. 兵器工場攻略まとめ
 
-[兵器工場攻略まとめ](https://github.com/WhiteoutShare/hao/blob/main/WeaponsFactory.md)
+[兵器工場攻略まとめ](https://whiteoutshare.github.io/hao/WeaponsFactory)
 
 ### 3. SvS日程・準備フェーズ
 
@@ -18,4 +18,4 @@ Whiteout Survival に関するサーバールール、攻略情報、各種Tips�
 
 ### 4. その他・攻略Tips
 
-[その他・攻略Tips](https://github.com/WhiteoutShare/svs/blob/main/KnowHow.md)
+[その他・攻略Tips](https://whiteoutshare.github.io/svs/KnowHow)
