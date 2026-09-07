@@ -14,7 +14,7 @@ Whiteout Survival に関するサーバールール、攻略情報、各種Tips�
 
 ### 3. SvS日程・準備フェーズ
 
-[SvS日程・準備フェーズ](https://github.com/WhiteoutShare/svs/tree/main)
+[SvS日程・準備フェーズ](https://whiteoutshare.github.io/svs)
 
 ### 4. その他・攻略Tips
 
