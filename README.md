@@ -16,7 +16,7 @@ Whiteout Survival に関するサーバールール、攻略情報、各種Tips�
 
 [SvS日程・準備フェーズ](https://whiteoutshare.github.io/svs)
 
-### 4. その他・攻略Tips
+### 4. ホワイトアウトサバイバル攻略
 
 [ホワイトアウトサバイバル公式攻略wiki](https://www.whiteoutsurvival.wiki/ja/)  
 [ホワイトアウトサバイバル攻略wiki](https://altema.jp/whiteoutsurvival/)
