@@ -14,7 +14,7 @@ Whiteout Survival に関するサーバールール、攻略情報、各種Tips�
 
 ### 3. SvS日程・準備フェーズ
 
-[SvS日程・準備フェーズ](https://whiteoutshare.github.io/svs)
+[SvS日程・王城決戦ルール](https://whiteoutshare.github.io/svs)
 
 ### 4. ホワイトアウトサバイバル攻略
 
