@@ -2,26 +2,18 @@
 
 Whiteout Survival に関するサーバールール、攻略情報、各種Tipsをまとめています。
 
-## 📚 Contents
+## 1. [サーバールール・攻略等](https://whiteoutshare.github.io/hao)
 
-### 1. サーバールール・攻略等まとめ
+## 2. [兵器工場攻略まとめ](https://whiteoutshare.github.io/hao/WeaponsFactory)
 
-[サーバールール・攻略等](https://whiteoutshare.github.io/hao)
+## 3. [SvS日程・王城決戦ルール](https://whiteoutshare.github.io/svs)
 
-### 2. 兵器工場攻略まとめ
-
-[兵器工場攻略まとめ](https://whiteoutshare.github.io/hao/WeaponsFactory)
-
-### 3. SvS日程・準備フェーズ
-
-[SvS日程・王城決戦ルール](https://whiteoutshare.github.io/svs)
-
-### 4. ホワイトアウトサバイバル攻略
+## 4. ホワイトアウトサバイバル攻略
 
 [ホワイトアウトサバイバル公式攻略wiki](https://www.whiteoutsurvival.wiki/ja/)  
 [ホワイトアウトサバイバル攻略wiki](https://altema.jp/whiteoutsurvival/)
 
-### 5. その他・攻略Tips
+## 5. その他・攻略Tips
 
 [その他・攻略Tips](https://whiteoutshare.github.io/svs/KnowHow)  
 
