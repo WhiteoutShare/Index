@@ -36,4 +36,4 @@
 また、課金については**建造枠と部隊枠を1つずつ購入した程度**で、それ以外はほとんど課金していないため、課金関連の経験や知識もあまりありません。  
 少しでも皆さんの攻略に役立てば幸いです。🙇  
 
-# 🛋️ Lounge：[攻略以外のちょっとした発見・感想・雑談など](https://whiteoutshare.github.io/hao/lounge)
+## 🛋️ Lounge：[攻略以外のちょっとした発見・感想・雑談など](https://whiteoutshare.github.io/hao/lounge)
