@@ -7,7 +7,7 @@
 **ぜひ皆さん、積極的にご参加ください！**
 
 # 臨時枠
-## 📅 [氷原支配者＋明月🌙＋野獣駆逐](https://whiteoutshare.github.io/hao/data)
+## 📅 [氷原支配者＋明月🌙＋野獣駆逐](https://whiteoutshare.github.io/hao/tmp/260924data)
 
 # 各種攻略・情報まとめ
 
